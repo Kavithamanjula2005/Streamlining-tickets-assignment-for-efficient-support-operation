@@ -2,7 +2,7 @@
 STREAMLINING TICKET ASSIGNMENT FOR EFFICIENT SUPPORT OPERATIONS
 Naan Mudhalvan Project� Team ID: NM2025TMID17726 Team Leader: KAVITHA Team Members: KEERTHANA, KAMALESH, KARTHICK Institution: St. Joseph’s College (Arts & Science)
 
-#Introduction
+# Introduction
 In IT and business environments, support teams often face delays and inefficiencies due to manual ticket assignment. This results in longer resolution times, uneven workload distribution, and poor customer satisfaction. Our project, “Streamlining Ticket Assignment for Efficient Support Operations using ServiceNow”, demonstrates how ServiceNow can be configured to automatically assign tickets to the right support agents or groups based on predefined rules, skills, and priorities. We designed a custom application that: Automates the ticket assignment process using assignment rules and workflows. Distributes workload evenly across teams. Ensures faster resolution with skill-based routing. Uses business rules, auto-assignment logic, and SLAs for smooth ticket management. This project highlights how ServiceNow’s low-code/no-code capabilities can enhance support efficiency and improve customer experience.
 
 # Features
