@@ -10,7 +10,7 @@ Custom Tables: Support Tickets, Assignment Rules Auto-Assignment Logic: Assigns 
 
 # Project Explanation Videos
 All project demo videos are available in
-
+https://drive.google.com/drive/folders/1OfMiY2lRoXQKqkLYXd9lzTAK3P1EWp8N
 # Outcome
 This project delivers a faster, smarter, and more reliable ticket management system. By automating assignment, it reduces manual effort, ensures balanced workloads, and improves support response time. It showcases how ServiceNow can be applied to optimize support operations and ensure customer satisfaction.
 
